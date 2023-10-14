@@ -40,7 +40,7 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 ## 🔗 Connect with me
 
 - [Twitter](https://twitter.com/yuniidev)
-- [Bluesky](https://www.bsky.app/yuniisplatter)
+- [Bluesky](https://www.bsky.app/profile/yuniisplatter.bsky.social)
 - [Website](https://yunii.net)
   
 ## 📜 Default Repo Rules & Licenses
