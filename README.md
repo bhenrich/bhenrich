@@ -27,9 +27,9 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 
 ## 💼 Experience
 
-- **Full-Stack Developer** at **Bearingpoint Romania GmbH** _(2020)_
 - **Full-Stack Developer, CRM Administrator** at **vertragsengel GmbH** _(2023 - 2024)_
 - **Customer Interaction, Logistical Operator** at **REWE Group GmbH** _(2021 - 2022)_
+- **Full-Stack Developer** at **Bearingpoint Romania GmbH** _(2020)_
 
 ## 🏆 Achievements
 
