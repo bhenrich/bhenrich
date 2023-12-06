@@ -13,13 +13,14 @@
   
 ## 🛠 Skills & Technologies
 
-- ReactJS
+- ReactJS + NextJS
 - MySQL
 - .NET
 - Python
-- C++
+- C(++)
 - Networking
 - API Development
+- CLI Development
 
 ## 👨‍💻 About Me
 
