@@ -40,7 +40,7 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 
 ## 🔗 Connect with me
 
-- [Twitter](https://twitter.com/yuniidev)
+- [Mastodon](https://mastodon.social/@yunii@tech.lgbt)
 - [Bluesky](https://www.bsky.app/profile/bhenrich.de)
 - [Website](https://yunii.net)
   
