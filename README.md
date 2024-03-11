@@ -1,5 +1,6 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O5Q3ABB)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=bhenrich&color=green&style=for-the-badge)
 
 # 👋 Hey there, I'm [YuNii](https://github.com/bhenrich)
 
