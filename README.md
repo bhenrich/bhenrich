@@ -8,7 +8,7 @@
 
 - **Real Name**: Benjamin Henrich
 - **Username**: YuNii
-- **Pronouns**: They/Them
+- **Pronouns**: She/Them
 - **Email**: benjamin@bhenrich.de
 - 📍 **Location**: Germany
 - 🎂 **DOB**: 4th September 2005
