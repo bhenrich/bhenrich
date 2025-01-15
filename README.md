@@ -8,14 +8,18 @@
 
 - **Real Name**: Benjamin Henrich
 - **Username**: YuNii
-- **Pronouns**: She/Them
-- **Email**: benjamin@bhenrich.de
+- **Pronouns**: She/It
+- **Email**: benjamin.henrich@proton.me
 - 📍 **Location**: Germany
 - 🎂 **DOB**: 4th September 2005
   
 ## 🛠 Skills & Technologies
+- Rust
 
-- ReactJS + NextJS
+
+
+
+
 - MySQL
 - .NET
 - Python
@@ -26,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-Heya! I'm YuNii, a full-stack developer passionate about helping people and making their life easier through code. I specialize in ReactJS, .NET and Python.
+Heya! I'm YuNii, a full-stack developer passionate about helping people and making their life easier through code. I specialize in Rust, .NET and Python.
 
 ## 💼 Experience
 
@@ -42,8 +46,8 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 
 ## 🔗 Connect with me
 
-- [Mastodon](https://mastodon.social/@yunii@tech.lgbt)
-- [Bluesky](https://www.bsky.app/profile/bhenrich.de)
+- [Mastodon](https://mastodon.social/@yunii@woem.men)
+
 - [Website](https://yunii.net)
   
 ## 📜 Default Repo Rules & Licenses
