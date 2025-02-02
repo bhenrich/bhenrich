@@ -42,7 +42,7 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 
 - Worked with international clients like *Bearingpoint Romania GmbH* and *vertragsengel GmbH*
 - Built large-scale internal Systems for data analysis and KPI Management
-- Been in the Software Development field since the age of 4
+- Been in the Software Development field since 2016
 
 ## 🔗 Connect with me
 
@@ -54,8 +54,4 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 
 - **Default License**: [Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/)
 - **Contributions**: Feel free to contribute, just create a pull request.
-  
-## 🎉 Fun Fact
-
-My first ever program was a VISUAL BASIC program to calculate the point of intersection of the perpendicular bisectors of a triangle based on input values. I wrote it at the age of 4 with my father.
 
