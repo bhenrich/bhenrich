@@ -6,7 +6,7 @@
 
 ## 🎭 Personal Info
 
-- **Real Name**: Benjamin Henrich
+- **Real Name**: Luna Henrich
 - **Username**: YuNii
 - **Pronouns**: She/It
 - **Email**: benjamin.henrich@proton.me
