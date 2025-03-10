@@ -43,10 +43,6 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 - Worked with international clients like *Bearingpoint Romania GmbH* and *vertragsengel GmbH*
 - Built large-scale internal Systems for data analysis and KPI Management
 - Been in the Software Development field since 2016
-
-## 🔗 Connect with me
-
-- [Website](https://yunii.net)
   
 ## 📜 Default Repo Rules & Licenses
 
