@@ -46,8 +46,6 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 
 ## 🔗 Connect with me
 
-- [Mastodon](https://mastodon.social/@yunii@woem.men)
-
 - [Website](https://yunii.net)
   
 ## 📜 Default Repo Rules & Licenses
