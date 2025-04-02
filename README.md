@@ -9,7 +9,7 @@
 - **Real Name**: Luna Henrich
 - **Username**: YuNii
 - **Pronouns**: She/It
-- **Email**: luna.henrich@proton.me
+- **Email**: luna.henrich@pm.me
 - 📍 **Location**: Germany
 - 🎂 **DOB**: 4th September 2005
   
