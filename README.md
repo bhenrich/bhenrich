@@ -42,6 +42,7 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 
 - Worked with international clients like *Bearingpoint Romania GmbH* and *vertragsengel GmbH*
 - Built large-scale internal Systems for data analysis and KPI Management
+- Finder of MSRC VULN-116809
 - Been in the Software Development field since 2016
   
 ## 📜 Default Repo Rules & Licenses
