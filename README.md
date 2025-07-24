@@ -14,26 +14,21 @@
 - 🎂 **DOB**: 4th September 2005
   
 ## 🛠 Skills & Technologies
+- TypeScript + ReactJS
 - Rust
-
-
-
-
-
-- MySQL
 - .NET
-- Python
-- C(++)
-- Networking
-- API Development
-- CLI Development
+
+- FullStack Development
+- Schema Design
+- Microservice Integration
 
 ## 👨‍💻 About Me
 
-Heya! I'm YuNii, a full-stack developer passionate about helping people and making their life easier through code. I specialize in Rust, .NET and Python.
+Heya! I'm YuNii, a full-stack developer passionate about helping people and making their life easier through code. I specialize in Rust, .NET and ReactJS.
 
 ## 💼 Experience
 
+- **Full-Stack Developer, AI R&D** at **Keaz (Pocket Agency GmbH)** _(2025 - Current)_
 - **Full-Stack Developer, CRM Administrator** at **vertragsengel GmbH** _(2023 - 2024)_
 - **Customer Interaction, Logistical Operator** at **REWE Group GmbH** _(2021 - 2022)_
 - **Full-Stack Developer** at **Bearingpoint Romania GmbH** _(2020)_
@@ -48,5 +43,5 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 ## 📜 Default Repo Rules & Licenses
 
 - **Default License**: [Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/)
-- **Contributions**: Feel free to contribute, just create a pull request.
+- **Contributions**: Feel free to contribute to any of my public repositories, just create a pull request.
 
