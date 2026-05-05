@@ -2,13 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=bhenrich&color=green&style=for-the-badge)
 
-# 👋 Hey there, I'm [YuNii](https://github.com/bhenrich)
+# 👋 Hey there, I'm [Luna](https://github.com/bhenrich)
 
 ## 🎭 Personal Info
 
 - **Real Name**: Luna Henrich
 - **Username**: YuNii
-- **Pronouns**: She/It
+- **Pronouns**: She/Her
 - **Email**: luna.henrich@pm.me
 - 📍 **Location**: Germany
 - 🎂 **DOB**: 4th September 2005
@@ -28,7 +28,7 @@ Heya! I'm YuNii, a full-stack developer passionate about helping people and maki
 
 ## 💼 Experience
 
-- **Full-Stack Developer, AI R&D** at **Keaz (Pocket Agency GmbH)** _(2025 - Current)_
+- **Full-Stack Developer, AI R&D** at **Keaz (Pocket Agency GmbH)** _(2025 - 2026)_
 - **Full-Stack Developer, CRM Administrator** at **vertragsengel GmbH** _(2023 - 2024)_
 - **Customer Interaction, Logistical Operator** at **REWE Group GmbH** _(2021 - 2022)_
 - **Full-Stack Developer** at **Bearingpoint Romania GmbH** _(2020)_
