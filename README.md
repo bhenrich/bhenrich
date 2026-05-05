@@ -14,8 +14,6 @@
 - 🎂 **DOB**: 4th September 2005
   
 ## 🛠 Skills & Technologies
-- TypeScript + ReactJS
-- Rust
 - .NET
 
 - FullStack Development
